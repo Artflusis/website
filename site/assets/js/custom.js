@@ -345,7 +345,7 @@
 		 * Google Map
 		/* ---------------------------------------------- */
 
-		var mapLocation = new google.maps.LatLng(34.031428,-118.2071542,17);
+		var mapLocation = new google.maps.LatLng(24.4660858,74.8706345,17);
 
 		var $mapis = $('#map');
 
